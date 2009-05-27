@@ -1,0 +1,6 @@
+http://code.google.com/p/pyrit/
+
+http://code.google.com/p/cbcl-model-cuda/source/browse/trunk/cbcl-model-cuda/test/test/cbcl_model.cu
+
+http://trac-git.assembla.com/libcusift/browser
+http://trac-git.assembla.com/libcusift/browser/sift.cu
